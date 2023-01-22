@@ -1,4 +1,6 @@
-### Olá! Eu sou o Igor 
+### 👋 Hi! I'm Igor 
+### ✍ I’m currently learning HTML, CSS and JavaScript
+
 
 
 
