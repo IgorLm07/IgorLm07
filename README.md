@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Igor 
-### ✍ I’m currently learning HTML, CSS and JavaScript
+### ✍ I’m currently learning TypeScript, SQL and React
 
 
 
